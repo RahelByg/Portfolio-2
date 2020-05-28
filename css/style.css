@@ -72,13 +72,6 @@ p {
   text-decoration: underline;
 }
 
-.logo {
-  position: absolute;
-  left: 30px;
-  top: 30px;
-  width: 180px;
-}
-
 .top-img {
   position: absolute;
   right: 400px;
