@@ -156,6 +156,7 @@ p {
 .intro {
   width: 40%;
   min-width: 350px;
+  text-align: left;
 }
 
 .btn {
