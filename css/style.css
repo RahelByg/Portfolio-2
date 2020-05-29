@@ -154,7 +154,8 @@ p {
 }
 
 .intro {
-  width: 40%;
+  width: 50%;
+  margin: auto;
   min-width: 350px;
   text-align: left;
 }
