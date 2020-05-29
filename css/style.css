@@ -4,12 +4,32 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-   color: #40514e;
+  color: #40514e;
   font-size: 16px;
 }
 
 p {
   line-height: 2;
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  
+  h3 {
+    font-size: 16px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  .bottom-container p {
+   font-size: 12px;
+  }
 }
 
  a {
@@ -52,12 +72,6 @@ p {
 
  img {
    min-width: 50px;
- }
-
- @media only screen and (max-width:800px) {
-   .top-img {
-     display: none;
-   }
  }
 
  /*TOP*/
