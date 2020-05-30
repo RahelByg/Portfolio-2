@@ -30,7 +30,7 @@ p {
   .bottom-container p {
    font-size: 12px;
   }
-  .intro, .skill-row {
+  .intro, .skill-row , .top-container {
     width: 90%;
   }
   .top-img {
